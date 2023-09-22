@@ -1,4 +1,5 @@
 # New-Game-
 
 import tensorflow 
-import 
+import numpy 
+import matplotlib
